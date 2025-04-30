@@ -1,0 +1,25 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:2
+#EXT-X-MEDIA-SEQUENCE:0
+#EXTINF:-1,Channel 1
+https://github.com/Yogirockers/CABLE/blob/main/10000914130.ts?raw=true
+#EXTINF:-1,Channel 2
+https://github.com/Yogirockers/CABLE/blob/main/10000914131.ts?raw=true
+#EXTINF:-1,Channel 3
+https://github.com/Yogirockers/CABLE/blob/main/10000914132.ts?raw=true
+#EXTINF:-1,Channel 4
+https://github.com/Yogirockers/CABLE/blob/main/10000914133.ts?raw=true
+#EXTINF:-1,Channel 5
+https://github.com/Yogirockers/CABLE/blob/main/10000914134.ts?raw=true
+#EXTINF:-1,Channel 6
+https://github.com/Yogirockers/CABLE/blob/main/10000914135.ts?raw=true
+#EXTINF:-1,Channel 7
+https://github.com/Yogirockers/CABLE/blob/main/10000914136.ts?raw=true
+#EXTINF:-1,Channel 8
+https://github.com/Yogirockers/CABLE/blob/main/10000914137.ts?raw=true
+#EXTINF:-1,Channel 9
+https://github.com/Yogirockers/CABLE/blob/main/10000914138.ts?raw=true
+#EXTINF:-1,Channel 10
+https://github.com/Yogirockers/CABLE/blob/main/10000914139.ts?raw=true
+#EXT-X-ENDLIST
